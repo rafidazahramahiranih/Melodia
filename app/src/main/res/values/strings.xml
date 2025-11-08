@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Melodia</string>
+    <string name="name">Rafida Zahra Mahirani H</string>
+    <string name="email">zrafida60@gmail.com</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">About Me</string>
+    <string name="menu_detail">Detail</string>
+    <string name="search_music">Search your music</string>
+    <string name="back">Back</string>
+</resources>
